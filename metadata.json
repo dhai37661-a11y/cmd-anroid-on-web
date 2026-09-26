@@ -1,0 +1,6 @@
+{
+  "name": "Phone CMD",
+  "description": "Command Prompt terminal for Android: manage storage, browse files, run commands, and inspect system status just like on PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
